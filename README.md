@@ -1,10 +1,23 @@
 <div align="center">
-  <a href="tech_report.pdf"><img width="80%" src="figures/banner.png"></a>
+<h3 align="center">
+  <b>
+    <span>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span>
+    <br/>
+    <img src="figures/logo.png" height="16" width="16" style="display: inline-block; vertical-align: middle; margin: 2px;"> Kimi Linear: An Expressive, Efficient Attention Architecture
+    <br/>
+    <span>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</span>
+    <br/>
+  </b>
+</h3>
 </div>
 
 <div align="center">
-  <a href="tech_report.pdf"><img src="figures/logo.png" height="16" width="16" style="vertical-align:middle"><b> Tech Report</b></a>  |  
-  <a href="https://huggingface.co/moonshotai/Kimi-Linear-48B-A3B-Instruct"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="16" width="16" style="vertical-align:middle"><b> HuggingFace</b></a>
+  <a href="https://huggingface.co/papers/2510.26692" style="margin: 0 8px;">
+    <img src="figures/arxiv.png" height="16" width="16" style="display: inline-block; vertical-align: middle; margin: 2px;"><b> Paper</b>
+  </a>
+  <a href="https://huggingface.co/moonshotai/Kimi-Linear-48B-A3B-Instruct" style="margin: 0 8px;">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="16" width="16" style="display: inline-block; vertical-align: middle; margin: 2px;"><b> HuggingFace</b>
+  </a>
 </div>
 
 <div align="center">
